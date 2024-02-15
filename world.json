@@ -1,0 +1,14 @@
+{
+  "title": "Vulcania World",
+  "id": "vulcania-world",
+  "system": "vulcania",
+  "joinTheme": "default",
+  "coreVersion": "11.308",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "systemVersion": "1.0.0",
+  "lastPlayed": "Thu Feb 15 2024 09:35:34 GMT+0100 (Ora standard dell’Europa centrale)",
+  "playtime": 287
+}
