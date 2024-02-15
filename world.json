@@ -16,7 +16,7 @@
     }
   ],
   "systemVersion": "1.0.0",
-  "background": "worlds/vulcania-world/scenes/cover.jpg",
+  "background": "worlds/vulcania-world/scenes/cover.png",
   "url": "https://github.com/heyrold73/vulcania-world",
   "manifest": "https://github.com/heyrold73/vulcania-world/releases/latest/download/world.json",
   "download": "https://github.com/heyrold73/vulcania-world/releases/latest/download/world.zip"
