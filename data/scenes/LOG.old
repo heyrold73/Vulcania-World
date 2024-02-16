@@ -1,0 +1,7 @@
+2024/02/16-23:29:22.529 c34 Recovering log #28
+2024/02/16-23:29:22.533 c34 Delete type=0 #28
+2024/02/16-23:29:22.533 c34 Delete type=3 #26
+2024/02/16-23:46:59.521 cd8 Level-0 table #33: started
+2024/02/16-23:46:59.538 cd8 Level-0 table #33: 3855 bytes OK
+2024/02/16-23:46:59.539 cd8 Delete type=0 #31
+2024/02/16-23:46:59.539 cd8 Manual compaction at level-0 from '!scenes!7gZBsyS0MDGRrn1p' @ 72057594037927935 : 1 .. '!scenes!7gZBsyS0MDGRrn1p' @ 0 : 0; will stop at (end)
