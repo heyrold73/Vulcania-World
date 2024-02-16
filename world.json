@@ -12,12 +12,15 @@
   "authors": [
     {
       "name": "Heyrold",
-      "discord": "Heyrold#4406"
+      "discord": "Heyrold#4406",
+      "flags": {}
     }
   ],
-  "systemVersion": "1.0.0",
+  "systemVersion": "1.0.1",
   "background": "worlds/vulcania-world/scenes/cover.png",
   "url": "https://github.com/heyrold73/vulcania-world",
   "manifest": "https://github.com/heyrold73/vulcania-world/releases/latest/download/world.json",
-  "download": "https://github.com/heyrold73/vulcania-world/releases/latest/download/world.zip"
+  "download": "https://github.com/heyrold73/vulcania-world/releases/latest/download/world.zip",
+  "lastPlayed": "Fri Feb 16 2024 18:54:02 GMT+0100 (Ora standard dell’Europa centrale)",
+  "playtime": 632
 }
