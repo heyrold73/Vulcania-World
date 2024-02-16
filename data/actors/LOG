@@ -1,0 +1,32 @@
+2024/02/16-18:44:15.637 4b60 Recovering log #8
+2024/02/16-18:44:15.643 4b60 Delete type=0 #8
+2024/02/16-18:44:15.643 4b60 Delete type=3 #6
+2024/02/16-18:49:08.229 3d70 Level-0 table #13: started
+2024/02/16-18:49:08.257 3d70 Level-0 table #13: 3523268 bytes OK
+2024/02/16-18:49:08.262 3d70 Delete type=0 #11
+2024/02/16-18:50:56.649 3d70 Level-0 table #15: started
+2024/02/16-18:50:56.675 3d70 Level-0 table #15: 2432356 bytes OK
+2024/02/16-18:50:56.679 3d70 Delete type=0 #12
+2024/02/16-18:54:02.754 3d70 Level-0 table #17: started
+2024/02/16-18:54:02.787 3d70 Level-0 table #17: 3577041 bytes OK
+2024/02/16-18:54:02.787 3d70 Delete type=0 #14
+2024/02/16-18:54:02.790 3d70 Manual compaction at level-0 from '!actors!1dwIPHAKLLekAO6z' @ 72057594037927935 : 1 .. '!actors!lm4W74gIAvR8aScN' @ 0 : 0; will stop at '!actors!lm4W74gIAvR8aScN' @ 16 : 1
+2024/02/16-18:54:02.790 3d70 Compacting 1@0 + 1@1 files
+2024/02/16-18:54:02.823 3d70 Generated table #18@0: 3 keys, 2369494 bytes
+2024/02/16-18:54:02.831 3d70 Generated table #19@0: 2 keys, 13899 bytes
+2024/02/16-18:54:02.831 3d70 Compacted 1@0 + 1@1 files => 2383393 bytes
+2024/02/16-18:54:02.831 3d70 compacted to: files[ 0 2 1 0 0 0 0 ]
+2024/02/16-18:54:02.831 3d70 Delete type=2 #15
+2024/02/16-18:54:02.831 3d70 Delete type=2 #17
+2024/02/16-18:54:02.944 3d70 Manual compaction at level-0 from '!actors!lm4W74gIAvR8aScN' @ 16 : 1 .. '!actors!lm4W74gIAvR8aScN' @ 0 : 0; will stop at (end)
+2024/02/16-18:54:02.944 3d70 Expanding@1 1+1 (2369494+3523268 bytes) to 2+1 (2383393+3523268 bytes)
+2024/02/16-18:54:02.944 3d70 Manual compaction at level-1 from '!actors!1dwIPHAKLLekAO6z' @ 72057594037927935 : 1 .. '!actors!lm4W74gIAvR8aScN' @ 0 : 0; will stop at '!actors!lm4W74gIAvR8aScN' @ 16 : 1
+2024/02/16-18:54:02.944 3d70 Compacting 2@1 + 1@2 files
+2024/02/16-18:54:02.981 3d70 Generated table #20@1: 3 keys, 2369494 bytes
+2024/02/16-18:54:02.993 3d70 Generated table #21@1: 2 keys, 13899 bytes
+2024/02/16-18:54:02.993 3d70 Compacted 2@1 + 1@2 files => 2383393 bytes
+2024/02/16-18:54:02.995 3d70 compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/02/16-18:54:02.995 3d70 Delete type=2 #13
+2024/02/16-18:54:02.995 3d70 Delete type=2 #18
+2024/02/16-18:54:02.997 3d70 Delete type=2 #19
+2024/02/16-18:54:02.997 3d70 Manual compaction at level-1 from '!actors!lm4W74gIAvR8aScN' @ 16 : 1 .. '!actors!lm4W74gIAvR8aScN' @ 0 : 0; will stop at (end)

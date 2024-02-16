@@ -1,0 +1,8 @@
+2024/02/16-18:44:16.164 b98 Recovering log #8
+2024/02/16-18:44:16.170 b98 Delete type=0 #8
+2024/02/16-18:44:16.170 b98 Delete type=3 #6
+2024/02/16-18:54:02.568 3d70 Level-0 table #13: started
+2024/02/16-18:54:02.568 3d70 Level-0 table #13: 0 bytes OK
+2024/02/16-18:54:02.572 3d70 Delete type=0 #11
+2024/02/16-18:54:02.576 3d70 Manual compaction at level-0 from '!users!6RC1KAiM8xAiA8Ng' @ 72057594037927935 : 1 .. '!users!6RC1KAiM8xAiA8Ng' @ 0 : 0; will stop at (end)
+2024/02/16-18:54:02.596 3d70 Manual compaction at level-1 from '!users!6RC1KAiM8xAiA8Ng' @ 72057594037927935 : 1 .. '!users!6RC1KAiM8xAiA8Ng' @ 0 : 0; will stop at (end)
