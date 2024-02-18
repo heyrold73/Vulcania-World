@@ -1,8 +1,0 @@
-2024/02/16-23:47:47.674 42e4 Recovering log #16
-2024/02/16-23:47:47.680 42e4 Delete type=0 #16
-2024/02/16-23:47:47.680 42e4 Delete type=3 #14
-2024/02/16-23:49:13.005 cd8 Level-0 table #21: started
-2024/02/16-23:49:13.005 cd8 Level-0 table #21: 0 bytes OK
-2024/02/16-23:49:13.007 cd8 Delete type=0 #19
-2024/02/16-23:49:13.013 cd8 Manual compaction at level-0 from '!actors!D7j9PVdDwHEWMOk3' @ 72057594037927935 : 1 .. '!folders!s4ALumuKjJ0AEHBH' @ 0 : 0; will stop at (end)
-2024/02/16-23:49:13.013 cd8 Manual compaction at level-1 from '!actors!D7j9PVdDwHEWMOk3' @ 72057594037927935 : 1 .. '!folders!s4ALumuKjJ0AEHBH' @ 0 : 0; will stop at (end)
